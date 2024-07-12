@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bepossiti&label=Profile%20views&color=0e75b6&style=flat" alt="bepossiti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bepossiti" alt="bepossiti" /></a> </p>
 
 - 🔭 I’m currently working on **Android Development**
 
